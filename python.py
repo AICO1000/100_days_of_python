@@ -1,4 +1,3 @@
-# test tes
 print("Welcome to your weight body mass clinic")
 age = input("How old are you?\n")
 age_default = 90
